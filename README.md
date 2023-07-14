@@ -5,3 +5,5 @@
 ####    -🔭 I’m currently studying at Vavuniya Campus University of Jaffna.
 ####    -🌱 I’m currently learning C++, Python & Java.
 ####    -👯 I’m looking to collaborate on any interesting project.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arwijesuriya)](https://github.com/anuraghazra/github-readme-stats)

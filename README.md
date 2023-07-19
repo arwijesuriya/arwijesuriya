@@ -1,5 +1,5 @@
 <h1 align="center">
-	Hi 👋, I'm Achira Wijesuriya || 🇱🇰
+	Hi 👋, I'm Achira Wijesuriya
 </h1>
 <h3 align="center">
 	BSc.IT(UG) 🧑‍🎓 | Full Stack Developer 💻 | Writer ✒️ | Announcer 🎤

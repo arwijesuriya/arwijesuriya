@@ -6,13 +6,9 @@
 </h3>
 
 <p align="center">
-	Hey there, I am Achira Wijesuriya. I got my primary & secondary education at Dharmapala Vidyalaya, Pannipitiya. 
-	I played cricket as a sport and did so many extra-curricular activities during my school years. And I did my 
-	Advanced level in the Physical Science stream. Then I did a school leaver internship at the Bank of Ceylon in 
-	the Nugegoda branch. Now I am following a BSc degree in Information Technology. I am an ambitious and confident 
-	individual with good analytical skills who is seeking an internship opportunity in the IT field which will enhance 
-	my current expertise with new additions, with opportunities for personal and professional growth. And to become an 
-	IT professional with the required experience, skills, and knowledge.
+	Hello there! I'm Achira Wijesuriya, a confident and ambitious individual passionate about Information Technology. I studied at Dharmapala Vidyalaya, Pannipitiya, where I was active in cricket and many extra-curricular activities. After pursuing Advanced level studies in Physical Science, I interned at the Bank of Ceylon, Nugegoda branch. <br>
+	Currently, I'm pursuing a BSc in Information Technology, driven by a strong interest in IT and analytical skills. I'm seeking challenging IT internships to enhance my skills and foster personal and professional growth. <br>
+	I aim to become a skilled IT professional, contributing significantly to the industry. I'm eager to tackle new challenges and make a meaningful impact in the evolving world of technology.
 </p>
 
 <h3 align="center">Connect with me:</h3>

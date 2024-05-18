@@ -11,7 +11,7 @@
 	I aim to become a skilled IT professional, contributing significantly to the industry. I'm eager to tackle new challenges and make a meaningful impact in the evolving world of technology.
 </p>
 
-<p align="center">- 📝 [https://arwijesuriya58.blogspot.com/](https://arwijesuriya58.blogspot.com/)</p>
+<p align="center"><a href="https://arwijesuriya58.blogspot.com/">📝 I regularly write articles on</a></p>
 
 <h3 align="center">CONNECT WITH ME:</h3>
 <p align="center">

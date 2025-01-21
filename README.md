@@ -2,7 +2,7 @@
 	Hi 👋, I'm Achira Wijesuriya
 </h1>
 <h3 align="center">
-	BSc.IT(UG) 🧑‍🎓 | Full Stack Developer 💻 | Writer ✒️ | Announcer 🎤
+	BSc.IT(UG) 🧑‍🎓
 </h3>
 
 <p align="center">

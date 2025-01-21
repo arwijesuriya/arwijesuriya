@@ -6,9 +6,8 @@
 </h3>
 
 <p align="center">
-	Hello there! I'm Achira Wijesuriya, a confident and ambitious individual passionate about Information Technology. I studied at Dharmapala Vidyalaya, Pannipitiya, where I was active in cricket and many extra-curricular activities. After pursuing Advanced level studies in Physical Science, I interned at the Bank of Ceylon, Nugegoda branch. <br>
-	Currently, I'm pursuing a BSc in Information Technology, driven by a strong interest in IT and analytical skills. I'm seeking challenging IT internships to enhance my skills and foster personal and professional growth. <br>
-	I aim to become a skilled IT professional, contributing significantly to the industry. I'm eager to tackle new challenges and make a meaningful impact in the evolving world of technology.
+	I'm a passionate and ambitious individual pursuing a BSc in Information Technology. With a strong interest in IT and analytical problem-solving, I'm eager to grow my skills and make a meaningful impact in the tech industry. <br>
+	I have experience as an intern at the Bank of Ceylon, where I gained valuable professional insights. I'm actively seeking opportunities to expand my knowledge through challenging IT internships, aiming to become a skilled and innovative IT professional.
 </p>
 
 <p align="center"><a href="https://arwijesuriya58.blogspot.com/">📝 I regularly write articles on</a></p>
